@@ -5,7 +5,7 @@
 ![Alt text](p1.png?raw=true "Log In Page With Facebook")
 
 ------
-## Main Game Panel##
+## Main Game Panel ##
 ![Alt text](p2.png?raw=true "Game Window")
 
 ------
